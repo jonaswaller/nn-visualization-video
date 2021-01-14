@@ -1,4 +1,5 @@
 # Neural Network Visualization
+![txt](https://github.com/StuartWaller/nn_visualization-video/nn_cover.PNG)
 This is a repository containing the source code for the animations shown in [A Visual Introduction to Neural Networks](). 
 
 # Requirements
