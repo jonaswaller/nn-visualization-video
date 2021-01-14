@@ -6,4 +6,3 @@ These animations were made using the Python Mathematical Animation Library [Mani
 
 # Acknowledgements
 Special thanks to [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for the inspiration behind these animations and to the manim community for helping me along the way.
-![txt](https://ibb.co/7rFZLV8)
