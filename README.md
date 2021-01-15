@@ -1,5 +1,5 @@
 # Neural Network Visualization
-This is a repository containing the source code for the animations shown in [A Visual Introduction to Neural Networks](). 
+This is a repository containing the source code for the animations shown in [A Visual Introduction to Neural Networks](https://www.youtube.com/watch?v=RLCqjCAbd5E&t=19s). 
 
 # Requirements
 These animations were made using the Python mathematical animation library - [Manim](https://docs.manim.community/en/v0.2.0/). 
