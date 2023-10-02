@@ -1,5 +1,5 @@
 # Neural Network Visualization
-Watch this video here: [A Visual Introduction to Neural Networks](https://www.youtube.com/watch?v=RLCqjCAbd5E&t=19s) 
+Watch here: [A Visual Introduction to Neural Networks](https://www.youtube.com/watch?v=RLCqjCAbd5E&t=19s) 
 
 # Requirements
 These animations were made using the Python mathematical animation library - [Manim](https://docs.manim.community/en/v0.2.0/)
